@@ -1,0 +1,7 @@
+{
+  "name": "my-php-app",
+  "description": "My PHP Application",
+  "require": {
+    "php": "^7.4"  // or your preferred PHP version
+  }
+}
